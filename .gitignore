@@ -1,0 +1,14 @@
+*.feature.cs
+*.user
+*.suo
+.DS_Store
+.idea/
+.vs/
+.vscode/
+appsettings.Development.json
+bin/
+dist/
+logs/
+node_modules/
+obj/
+Thumbs.db
