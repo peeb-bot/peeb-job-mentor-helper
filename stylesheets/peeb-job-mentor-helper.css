@@ -15,7 +15,7 @@ section:last-child::after { border-bottom: none; }
 
 .actions { background: #2f3136; border-left: 8px solid; padding: 16px 16px 0; }
 .actions ol { align-items: center; display: flex; flex-wrap: wrap; list-style-type: none; margin: 0; padding: 0; }
-.actions ol li { align-items: center; background-size: contain; border: 1px solid #111; border-radius: 5px; box-shadow: 0 1px 3px 0 #111, inset 0 1px 0 0 #999; display: flex; justify-content: center; margin: 0 34px 16px 0; position: relative; height: 40px; width: 40px; }
+.actions ol li { align-items: center; background-color: #000; background-size: contain; border: 1px solid #111; border-radius: 5px; box-shadow: 0 1px 3px 0 #111, inset 0 1px 0 0 #999; display: flex; justify-content: center; margin: 0 34px 16px 0; position: relative; height: 40px; width: 40px; }
 .actions ol li::after { content: "\2192"; font-size: 14px; line-height: 1; position: absolute; right: -24px; }
 .actions ol li:last-child { margin-right: 0; }
 .actions ol li:last-child::after { display: none; }
