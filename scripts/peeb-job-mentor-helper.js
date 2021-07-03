@@ -6,12 +6,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
         copyButton.addEventListener('click', () => {
             const range = document.createRange();
+            const selection = window.getSelection();
 
             range.selectNode(code);
-            window.getSelection().removeAllRanges();
-            window.getSelection().addRange(range);
+            selection.removeAllRanges();
+            selection.addRange(range);
             document.execCommand('copy');
-            window.getSelection().removeAllRanges();
+            selection.removeAllRanges();
         });
 
         code.after(copyButton);
