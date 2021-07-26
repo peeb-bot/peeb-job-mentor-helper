@@ -25,370 +25,370 @@ section:last-child::after { border-bottom: none; }
 .actions ol li.weave { height: 30px; width: 30px; }
 .actions ol li .precast { font-size: 10px; line-height: 1; position: absolute; top: -11px; }
 
-.chicken-fettuccine { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/meals/chicken-fettuccine.png); }
-.pizza { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/meals/pizza.png); }
-.smoked-chicken { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/meals/smoked-chicken.png); }
-.twilight-popoto-salad { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/meals/twilight-popoto-salad.png); }
-.zefir { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/meals/zefir.png); }
+.chicken-fettuccine { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/meals/chicken-fettuccine.png); }
+.pizza { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/meals/pizza.png); }
+.smoked-chicken { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/meals/smoked-chicken.png); }
+.twilight-popoto-salad { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/meals/twilight-popoto-salad.png); }
+.zefir { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/meals/zefir.png); }
 
-.grade-4-tincture-of-dexterity { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/medicine/grade-4-tincture-of-dexterity.png); }
-.grade-4-tincture-of-intelligence { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/medicine/grade-4-tincture-of-intelligence.png); }
-.grade-4-tincture-of-mind { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/medicine/grade-4-tincture-of-mind.png); }
-.grade-4-tincture-of-strength { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/medicine/grade-4-tincture-of-strength.png); }
+.grade-4-tincture-of-dexterity { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/medicine/grade-4-tincture-of-dexterity.png); }
+.grade-4-tincture-of-intelligence { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/medicine/grade-4-tincture-of-intelligence.png); }
+.grade-4-tincture-of-mind { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/medicine/grade-4-tincture-of-mind.png); }
+.grade-4-tincture-of-strength { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/medicine/grade-4-tincture-of-strength.png); }
 
-.sprint { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/general/sprint.png); }
+.sprint { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/general/sprint.png); }
 
-.interject { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/tank/interject.png); }
-.low-blow { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/tank/low-blow.png); }
-.provoke { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/tank/provoke.png); }
-.rampart { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/tank/rampart.png); }
-.reprisal { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/tank/reprisal.png); }
-.shirk { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/tank/shirk.png); }
+.interject { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/tank/interject.png); }
+.low-blow { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/tank/low-blow.png); }
+.provoke { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/tank/provoke.png); }
+.rampart { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/tank/rampart.png); }
+.reprisal { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/tank/reprisal.png); }
+.shirk { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/tank/shirk.png); }
 
-.esuna { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/healer/esuna.png); }
-.lucid-dreaming { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/healer/lucid-dreaming.png); }
-.repose { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/healer/repose.png); }
-.rescue { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/healer/rescue.png); }
-.surecast { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/healer/surecast.png); }
-.swiftcast { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/healer/swiftcast.png); }
+.esuna { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/healer/esuna.png); }
+.lucid-dreaming { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/healer/lucid-dreaming.png); }
+.repose { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/healer/repose.png); }
+.rescue { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/healer/rescue.png); }
+.surecast { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/healer/surecast.png); }
+.swiftcast { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/healer/swiftcast.png); }
 
-.arms-length { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/melee/arms-length.png); }
-.bloodbath { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/melee/bloodbath.png); }
-.feint { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/melee/feint.png); }
-.leg-sweep { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/melee/leg-sweep.png); }
-.second-wind { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/melee/second-wind.png); }
-.true-north { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/melee/true-north.png); }
+.arms-length { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/melee/arms-length.png); }
+.bloodbath { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/melee/bloodbath.png); }
+.feint { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/melee/feint.png); }
+.leg-sweep { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/melee/leg-sweep.png); }
+.second-wind { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/melee/second-wind.png); }
+.true-north { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/melee/true-north.png); }
 
-.foot-graze { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/ranged/foot-graze.png); }
-.head-graze { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/ranged/head-graze.png); }
-.leg-graze { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/ranged/leg-graze.png); }
-.peloton { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/ranged/peloton.png); }
+.foot-graze { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/ranged/foot-graze.png); }
+.head-graze { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/ranged/head-graze.png); }
+.leg-graze { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/ranged/leg-graze.png); }
+.peloton { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/ranged/peloton.png); }
 
 .blm .actions { border-left-color: #6600cc; }
-.blm .blizzard-iii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/blizzard-iii.png); }
-.blm .blizzard-iv { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/blizzard-iv.png); }
-.blm .despair { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/despair.png); }
-.blm .enochian { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/enochian.png); }
-.blm .fire { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/fire.png); }
-.blm .fire-iii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/fire-iii.png); }
-.blm .fire-iv { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/fire-iv.png); }
-.blm .flare { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/flare.png); }
-.blm .freeze { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/freeze.png); }
-.blm .ley-lines { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/ley-lines.png); }
-.blm .manafont { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/manafont.png); }
-.blm .sharpcast { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/sharpcast.png); }
-.blm .thunder-iii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/thunder-iii.png); }
-.blm .thunder-iv { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/thunder-iv.png); }
-.blm .triplecast { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/triplecast.png); }
-.blm .xenoglossy { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/blm/xenoglossy.png); }
+.blm .blizzard-iii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/blizzard-iii.png); }
+.blm .blizzard-iv { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/blizzard-iv.png); }
+.blm .despair { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/despair.png); }
+.blm .enochian { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/enochian.png); }
+.blm .fire { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/fire.png); }
+.blm .fire-iii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/fire-iii.png); }
+.blm .fire-iv { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/fire-iv.png); }
+.blm .flare { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/flare.png); }
+.blm .freeze { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/freeze.png); }
+.blm .ley-lines { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/ley-lines.png); }
+.blm .manafont { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/manafont.png); }
+.blm .sharpcast { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/sharpcast.png); }
+.blm .thunder-iii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/thunder-iii.png); }
+.blm .thunder-iv { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/thunder-iv.png); }
+.blm .triplecast { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/triplecast.png); }
+.blm .xenoglossy { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/blm/xenoglossy.png); }
 
 .brd .actions { border-left-color: #9acd32; }
-.brd .apex-arrow { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/apex-arrow.png); }
-.brd .armys-paeon { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/armys-paeon.png); }
-.brd .barrage { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/barrage.png); }
-.brd .battle-voice { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/battle-voice.png); }
-.brd .bloodletter { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/bloodletter.png); }
-.brd .burst-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/burst-shot.png); }
-.brd .caustic-bite { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/caustic-bite.png); }
-.brd .empyreal-arrow { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/empyreal-arrow.png); }
-.brd .heavy-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/heavy-shot.png); }
-.brd .iron-jaws { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/iron-jaws.png); }
-.brd .mages-ballad { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/mages-ballad.png); }
-.brd .natures-minne { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/natures-minne.png); }
-.brd .pitch-perfect { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/pitch-perfect.png); }
-.brd .quick-nock { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/quick-nock.png); }
-.brd .raging-strikes { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/raging-strikes.png); }
-.brd .rain-of-death { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/rain-of-death.png); }
-.brd .refulgent-arrow { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/refulgent-arrow.png); }
-.brd .repelling-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/repelling-shot.png); }
-.brd .shadow-bite { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/shadow-bite.png); }
-.brd .sidewinder { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/sidewinder.png); }
-.brd .stormbite { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/stormbite.png); }
-.brd .straight-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/straight-shot.png); }
-.brd .the-wanderers-minuet { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/the-wanderers-minuet.png); }
-.brd .the-wardens-paean { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/the-wardens-paean.png); }
-.brd .troubadour { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/troubadour.png); }
-.brd .venomous-bite { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/venomous-bite.png); }
-.brd .windbite { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/brd/windbite.png); }
+.brd .apex-arrow { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/apex-arrow.png); }
+.brd .armys-paeon { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/armys-paeon.png); }
+.brd .barrage { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/barrage.png); }
+.brd .battle-voice { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/battle-voice.png); }
+.brd .bloodletter { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/bloodletter.png); }
+.brd .burst-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/burst-shot.png); }
+.brd .caustic-bite { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/caustic-bite.png); }
+.brd .empyreal-arrow { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/empyreal-arrow.png); }
+.brd .heavy-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/heavy-shot.png); }
+.brd .iron-jaws { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/iron-jaws.png); }
+.brd .mages-ballad { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/mages-ballad.png); }
+.brd .natures-minne { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/natures-minne.png); }
+.brd .pitch-perfect { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/pitch-perfect.png); }
+.brd .quick-nock { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/quick-nock.png); }
+.brd .raging-strikes { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/raging-strikes.png); }
+.brd .rain-of-death { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/rain-of-death.png); }
+.brd .refulgent-arrow { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/refulgent-arrow.png); }
+.brd .repelling-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/repelling-shot.png); }
+.brd .shadow-bite { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/shadow-bite.png); }
+.brd .sidewinder { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/sidewinder.png); }
+.brd .stormbite { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/stormbite.png); }
+.brd .straight-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/straight-shot.png); }
+.brd .the-wanderers-minuet { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/the-wanderers-minuet.png); }
+.brd .the-wardens-paean { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/the-wardens-paean.png); }
+.brd .troubadour { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/troubadour.png); }
+.brd .venomous-bite { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/venomous-bite.png); }
+.brd .windbite { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/brd/windbite.png); }
 
 .dnc .actions { border-left-color: #ffc0cb; }
-.dnc .bladeshower { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/bladeshower.png); }
-.dnc .bloodshower { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/bloodshower.png); }
-.dnc .cascade { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/cascade.png); }
-.dnc .closed-position { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/closed-position.png); }
-.dnc .curing-waltz { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/curing-waltz.png); }
-.dnc .devilment { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/devilment.png); }
-.dnc .emboite { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/emboite.png); }
-.dnc .emboite-entrechat-jete-pirouette { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/emboite-entrechat-jete-pirouette.png); }
-.dnc .en-avant { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/en-avant.png); }
-.dnc .ending { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/ending.png); }
-.dnc .entrechat { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/entrechat.png); }
-.dnc .fan-dance { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/fan-dance.png); }
-.dnc .fan-dance-ii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/fan-dance-ii.png); }
-.dnc .fan-dance-iii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/fan-dance-iii.png); }
-.dnc .flourish { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/flourish.png); }
-.dnc .fountain { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/fountain.png); }
-.dnc .fountainfall { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/fountainfall.png); }
-.dnc .improvisation { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/improvisation.png); }
-.dnc .jete { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/jete.png); }
-.dnc .pirouette { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/pirouette.png); }
-.dnc .reverse-cascade { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/reverse-cascade.png); }
-.dnc .rising-windmill { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/rising-windmill.png); }
-.dnc .saber-dance { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/saber-dance.png); }
-.dnc .shield-samba { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/shield-samba.png); }
-.dnc .standard-finish { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/standard-finish.png); }
-.dnc .standard-step { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/standard-step.png); }
-.dnc .technical-finish { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/technical-finish.png); }
-.dnc .technical-step { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/technical-step.png); }
-.dnc .windmill { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/dnc/windmill.png); }
+.dnc .bladeshower { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/bladeshower.png); }
+.dnc .bloodshower { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/bloodshower.png); }
+.dnc .cascade { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/cascade.png); }
+.dnc .closed-position { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/closed-position.png); }
+.dnc .curing-waltz { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/curing-waltz.png); }
+.dnc .devilment { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/devilment.png); }
+.dnc .emboite { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/emboite.png); }
+.dnc .emboite-entrechat-jete-pirouette { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/emboite-entrechat-jete-pirouette.png); }
+.dnc .en-avant { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/en-avant.png); }
+.dnc .ending { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/ending.png); }
+.dnc .entrechat { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/entrechat.png); }
+.dnc .fan-dance { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/fan-dance.png); }
+.dnc .fan-dance-ii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/fan-dance-ii.png); }
+.dnc .fan-dance-iii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/fan-dance-iii.png); }
+.dnc .flourish { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/flourish.png); }
+.dnc .fountain { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/fountain.png); }
+.dnc .fountainfall { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/fountainfall.png); }
+.dnc .improvisation { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/improvisation.png); }
+.dnc .jete { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/jete.png); }
+.dnc .pirouette { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/pirouette.png); }
+.dnc .reverse-cascade { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/reverse-cascade.png); }
+.dnc .rising-windmill { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/rising-windmill.png); }
+.dnc .saber-dance { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/saber-dance.png); }
+.dnc .shield-samba { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/shield-samba.png); }
+.dnc .standard-finish { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/standard-finish.png); }
+.dnc .standard-step { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/standard-step.png); }
+.dnc .technical-finish { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/technical-finish.png); }
+.dnc .technical-step { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/technical-step.png); }
+.dnc .windmill { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/dnc/windmill.png); }
 
 .drg .actions { border-left-color: #0000ff; }
-.drg .battle-litany { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/battle-litany.png); }
-.drg .blood-of-the-dragon { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/blood-of-the-dragon.png); }
-.drg .chaos-thrust { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/chaos-thrust.png); }
-.drg .coerthan-torment { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/coerthan-torment.png); }
-.drg .disembowel { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/disembowel.png); }
-.drg .doom-spike { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/doom-spike.png); }
-.drg .dragonfire-dive { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/dragonfire-dive.png); }
-.drg .dragon-sight { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/dragon-sight.png); }
-.drg .elusive-jump { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/elusive-jump.png); }
-.drg .fang-and-claw { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/fang-and-claw.png); }
-.drg .full-thrust { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/full-thrust.png); }
-.drg .geirskogul { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/geirskogul.png); }
-.drg .high-jump { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/high-jump.png); }
-.drg .jump { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/jump.png); }
-.drg .lance-charge { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/lance-charge.png); }
-.drg .leg-sweep { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/leg-sweep.png); }
-.drg .life-surge { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/life-surge.png); }
-.drg .mirage-dive { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/mirage-dive.png); }
-.drg .nastrond { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/nastrond.png); }
-.drg .piercing-talon { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/piercing-talon.png); }
-.drg .raiden-thrust { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/raiden-thrust.png); }
-.drg .sonic-thrust { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/sonic-thrust.png); }
-.drg .spineshatter-dive { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/spineshatter-dive.png); }
-.drg .stardiver { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/stardiver.png); }
-.drg .true-thrust { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/true-thrust.png); }
-.drg .vorpal-thrust { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/vorpal-thrust.png); }
-.drg .wheeling-thrust { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/drg/wheeling-thrust.png); }
+.drg .battle-litany { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/battle-litany.png); }
+.drg .blood-of-the-dragon { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/blood-of-the-dragon.png); }
+.drg .chaos-thrust { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/chaos-thrust.png); }
+.drg .coerthan-torment { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/coerthan-torment.png); }
+.drg .disembowel { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/disembowel.png); }
+.drg .doom-spike { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/doom-spike.png); }
+.drg .dragonfire-dive { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/dragonfire-dive.png); }
+.drg .dragon-sight { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/dragon-sight.png); }
+.drg .elusive-jump { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/elusive-jump.png); }
+.drg .fang-and-claw { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/fang-and-claw.png); }
+.drg .full-thrust { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/full-thrust.png); }
+.drg .geirskogul { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/geirskogul.png); }
+.drg .high-jump { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/high-jump.png); }
+.drg .jump { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/jump.png); }
+.drg .lance-charge { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/lance-charge.png); }
+.drg .leg-sweep { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/leg-sweep.png); }
+.drg .life-surge { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/life-surge.png); }
+.drg .mirage-dive { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/mirage-dive.png); }
+.drg .nastrond { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/nastrond.png); }
+.drg .piercing-talon { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/piercing-talon.png); }
+.drg .raiden-thrust { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/raiden-thrust.png); }
+.drg .sonic-thrust { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/sonic-thrust.png); }
+.drg .spineshatter-dive { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/spineshatter-dive.png); }
+.drg .stardiver { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/stardiver.png); }
+.drg .true-thrust { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/true-thrust.png); }
+.drg .vorpal-thrust { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/vorpal-thrust.png); }
+.drg .wheeling-thrust { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/drg/wheeling-thrust.png); }
 
 .gnb .actions { border-left-color: #f0e68c; }
-.gnb .abdomen-tear { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/abdomen-tear.png); }
-.gnb .aurora { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/aurora.png); }
-.gnb .blasting-zone { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/blasting-zone.png); }
-.gnb .bloodfest { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/bloodfest.png); }
-.gnb .bow-shock { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/bow-shock.png); }
-.gnb .brutal-shell { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/brutal-shell.png); }
-.gnb .burst-strike { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/burst-strike.png); }
-.gnb .camouflage { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/camouflage.png); }
-.gnb .continuation { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/continuation.png); }
-.gnb .danger-zone { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/danger-zone.png); }
-.gnb .demon-slaughter { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/demon-slaughter.png); }
-.gnb .demon-slice { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/demon-slice.png); }
-.gnb .eye-gouge { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/eye-gouge.png); }
-.gnb .fated-circle { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/fated-circle.png); }
-.gnb .gnashing-fang { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/gnashing-fang.png); }
-.gnb .heart-of-light { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/heart-of-light.png); }
-.gnb .heart-of-stone { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/heart-of-stone.png); }
-.gnb .jugular-rip { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/jugular-rip.png); }
-.gnb .keen-edge { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/keen-edge.png); }
-.gnb .lightning-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/lightning-shot.png); }
-.gnb .nebula { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/nebula.png); }
-.gnb .no-mercy { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/no-mercy.png); }
-.gnb .rough-divide { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/rough-divide.png); }
-.gnb .royal-guard { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/royal-guard.png); }
-.gnb .savage-claw { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/savage-claw.png); }
-.gnb .solid-barrel { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/solid-barrel.png); }
-.gnb .sonic-break { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/sonic-break.png); }
-.gnb .superbolide { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/superbolide.png); }
-.gnb .wicked-talon { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/gnb/wicked-talon.png); }
+.gnb .abdomen-tear { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/abdomen-tear.png); }
+.gnb .aurora { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/aurora.png); }
+.gnb .blasting-zone { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/blasting-zone.png); }
+.gnb .bloodfest { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/bloodfest.png); }
+.gnb .bow-shock { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/bow-shock.png); }
+.gnb .brutal-shell { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/brutal-shell.png); }
+.gnb .burst-strike { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/burst-strike.png); }
+.gnb .camouflage { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/camouflage.png); }
+.gnb .continuation { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/continuation.png); }
+.gnb .danger-zone { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/danger-zone.png); }
+.gnb .demon-slaughter { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/demon-slaughter.png); }
+.gnb .demon-slice { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/demon-slice.png); }
+.gnb .eye-gouge { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/eye-gouge.png); }
+.gnb .fated-circle { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/fated-circle.png); }
+.gnb .gnashing-fang { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/gnashing-fang.png); }
+.gnb .heart-of-light { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/heart-of-light.png); }
+.gnb .heart-of-stone { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/heart-of-stone.png); }
+.gnb .jugular-rip { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/jugular-rip.png); }
+.gnb .keen-edge { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/keen-edge.png); }
+.gnb .lightning-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/lightning-shot.png); }
+.gnb .nebula { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/nebula.png); }
+.gnb .no-mercy { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/no-mercy.png); }
+.gnb .rough-divide { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/rough-divide.png); }
+.gnb .royal-guard { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/royal-guard.png); }
+.gnb .savage-claw { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/savage-claw.png); }
+.gnb .solid-barrel { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/solid-barrel.png); }
+.gnb .sonic-break { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/sonic-break.png); }
+.gnb .superbolide { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/superbolide.png); }
+.gnb .wicked-talon { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/gnb/wicked-talon.png); }
 
 .mch .actions { border-left-color: #40e0d0; }
-.mch .air-anchor { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/air-anchor.png); }
-.mch .auto-crossbow { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/auto-crossbow.png); }
-.mch .barrel-stabilizer { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/barrel-stabilizer.png); }
-.mch .bioblaster { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/bioblaster.png); }
-.mch .clean-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/clean-shot.png); }
-.mch .detonator { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/detonator.png); }
-.mch .drill { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/drill.png); }
-.mch .flamethrower { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/flamethrower.png); }
-.mch .gauss-round { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/gauss-round.png); }
-.mch .heat-blast { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/heat-blast.png); }
-.mch .heated-clean-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/heated-clean-shot.png); }
-.mch .heated-slug-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/heated-slug-shot.png); }
-.mch .heated-split-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/heated-split-shot.png); }
-.mch .hot-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/hot-shot.png); }
-.mch .hypercharge { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/hypercharge.png); }
-.mch .reassemble { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/reassemble.png); }
-.mch .ricochet { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/ricochet.png); }
-.mch .rook-autoturret { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/rook-autoturret.png); }
-.mch .rook-overdrive { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/rook-overdrive.png); }
-.mch .rook-overload { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/rook-overload.png); }
-.mch .slug-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/slug-shot.png); }
-.mch .split-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/split-shot.png); }
-.mch .spread-shot { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/spread-shot.png); }
-.mch .tactician { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/tactician.png); }
-.mch .wildfire { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mch/wildfire.png); }
+.mch .air-anchor { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/air-anchor.png); }
+.mch .auto-crossbow { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/auto-crossbow.png); }
+.mch .barrel-stabilizer { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/barrel-stabilizer.png); }
+.mch .bioblaster { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/bioblaster.png); }
+.mch .clean-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/clean-shot.png); }
+.mch .detonator { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/detonator.png); }
+.mch .drill { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/drill.png); }
+.mch .flamethrower { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/flamethrower.png); }
+.mch .gauss-round { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/gauss-round.png); }
+.mch .heat-blast { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/heat-blast.png); }
+.mch .heated-clean-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/heated-clean-shot.png); }
+.mch .heated-slug-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/heated-slug-shot.png); }
+.mch .heated-split-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/heated-split-shot.png); }
+.mch .hot-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/hot-shot.png); }
+.mch .hypercharge { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/hypercharge.png); }
+.mch .reassemble { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/reassemble.png); }
+.mch .ricochet { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/ricochet.png); }
+.mch .rook-autoturret { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/rook-autoturret.png); }
+.mch .rook-overdrive { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/rook-overdrive.png); }
+.mch .rook-overload { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/rook-overload.png); }
+.mch .slug-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/slug-shot.png); }
+.mch .split-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/split-shot.png); }
+.mch .spread-shot { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/spread-shot.png); }
+.mch .tactician { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/tactician.png); }
+.mch .wildfire { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mch/wildfire.png); }
 
 .mnk .actions { border-left-color: #ffd700; }
-.mnk .anatman  { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/anatman.png); }
-.mnk .arm-of-the-destroyer { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/arm-of-the-destroyer.png); }
-.mnk .bootshine { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/bootshine.png); }
-.mnk .brotherhood { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/brotherhood.png); }
-.mnk .demolish { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/demolish.png); }
-.mnk .dragon-kick { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/dragon-kick.png); }
-.mnk .elixir-field { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/elixir-field.png); }
-.mnk .enlightenment { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/enlightenment.png); }
-.mnk .fists-of-earth { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/fists-of-earth.png); }
-.mnk .fists-of-fire { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/fists-of-fire.png); }
-.mnk .fists-of-wind { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/fists-of-wind.png); }
-.mnk .form-shift { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/form-shift.png); }
-.mnk .four-point-fury { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/four-point-fury.png); }
-.mnk .mantra { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/mantra.png); }
-.mnk .meditation { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/meditation.png); }
-.mnk .perfect-balance { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/perfect-balance.png); }
-.mnk .riddle-of-earth { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/riddle-of-earth.png); }
-.mnk .riddle-of-fire { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/riddle-of-fire.png); }
-.mnk .rockbreaker { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/rockbreaker.png); }
-.mnk .shoulder-tackle { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/shoulder-tackle.png); }
-.mnk .six-sided-star { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/six-sided-star.png); }
-.mnk .snap-punch { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/snap-punch.png); }
-.mnk .the-forbidden-chakra { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/the-forbidden-chakra.png); }
-.mnk .tornado-kick { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/tornado-kick.png); }
-.mnk .true-strike { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/true-strike.png); }
-.mnk .twin-snakes { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/mnk/twin-snakes.png); }
+.mnk .anatman  { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/anatman.png); }
+.mnk .arm-of-the-destroyer { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/arm-of-the-destroyer.png); }
+.mnk .bootshine { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/bootshine.png); }
+.mnk .brotherhood { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/brotherhood.png); }
+.mnk .demolish { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/demolish.png); }
+.mnk .dragon-kick { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/dragon-kick.png); }
+.mnk .elixir-field { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/elixir-field.png); }
+.mnk .enlightenment { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/enlightenment.png); }
+.mnk .fists-of-earth { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/fists-of-earth.png); }
+.mnk .fists-of-fire { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/fists-of-fire.png); }
+.mnk .fists-of-wind { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/fists-of-wind.png); }
+.mnk .form-shift { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/form-shift.png); }
+.mnk .four-point-fury { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/four-point-fury.png); }
+.mnk .mantra { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/mantra.png); }
+.mnk .meditation { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/meditation.png); }
+.mnk .perfect-balance { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/perfect-balance.png); }
+.mnk .riddle-of-earth { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/riddle-of-earth.png); }
+.mnk .riddle-of-fire { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/riddle-of-fire.png); }
+.mnk .rockbreaker { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/rockbreaker.png); }
+.mnk .shoulder-tackle { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/shoulder-tackle.png); }
+.mnk .six-sided-star { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/six-sided-star.png); }
+.mnk .snap-punch { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/snap-punch.png); }
+.mnk .the-forbidden-chakra { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/the-forbidden-chakra.png); }
+.mnk .tornado-kick { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/tornado-kick.png); }
+.mnk .true-strike { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/true-strike.png); }
+.mnk .twin-snakes { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/mnk/twin-snakes.png); }
 
 .nin .actions { border-left-color: #dc143c; }
-.nin .aeolian-edge { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/aeolian-edge.png); }
-.nin .armor-crush { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/armor-crush.png); }
-.nin .assassinate { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/assassinate.png); }
-.nin .bhavacakra { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/bhavacakra.png); }
-.nin .bunshin { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/bunshin.png); }
-.nin .chi { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/chi.png); }
-.nin .death-blossom { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/death-blossom.png); }
-.nin .doton { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/doton.png); }
-.nin .dream-within-a-dream { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/dream-within-a-dream.png); }
-.nin .fuma-shuriken { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/fuma-shuriken.png); }
-.nin .goka-mekkyaku { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/goka-mekkyaku.png); }
-.nin .gust-slash { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/gust-slash.png); }
-.nin .hakke-mujinsatsu { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/hakke-mujinsatsu.png); }
-.nin .hellfrog-medium { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/hellfrog-medium.png); }
-.nin .hide { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/hide.png); }
-.nin .huton { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/huton.png); }
-.nin .hyosho-ranryu { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/hyosho-ranryu.png); }
-.nin .hyoton { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/hyoton.png); }
-.nin .jin { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/jin.png); }
-.nin .kassatsu { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/kassatsu.png); }
-.nin .katon { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/katon.png); }
-.nin .meisui { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/meisui.png); }
-.nin .mug { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/mug.png); }
-.nin .ninjutsu { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/ninjutsu.png); }
-.nin .rabbit-medium { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/rabbit-medium.png); }
-.nin .raiton { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/raiton.png); }
-.nin .shade-shift { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/shade-shift.png); }
-.nin .shadow-fang { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/shadow-fang.png); }
-.nin .shukuchi { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/shukuchi.png); }
-.nin .spinning-edge { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/spinning-edge.png); }
-.nin .suiton { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/suiton.png); }
-.nin .ten { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/ten.png); }
-.nin .ten-chi-jin { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/ten-chi-jin.png); }
-.nin .throwing-dagger { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/throwing-dagger.png); }
-.nin .trick-attack { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/nin/trick-attack.png); }
+.nin .aeolian-edge { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/aeolian-edge.png); }
+.nin .armor-crush { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/armor-crush.png); }
+.nin .assassinate { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/assassinate.png); }
+.nin .bhavacakra { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/bhavacakra.png); }
+.nin .bunshin { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/bunshin.png); }
+.nin .chi { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/chi.png); }
+.nin .death-blossom { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/death-blossom.png); }
+.nin .doton { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/doton.png); }
+.nin .dream-within-a-dream { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/dream-within-a-dream.png); }
+.nin .fuma-shuriken { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/fuma-shuriken.png); }
+.nin .goka-mekkyaku { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/goka-mekkyaku.png); }
+.nin .gust-slash { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/gust-slash.png); }
+.nin .hakke-mujinsatsu { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/hakke-mujinsatsu.png); }
+.nin .hellfrog-medium { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/hellfrog-medium.png); }
+.nin .hide { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/hide.png); }
+.nin .huton { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/huton.png); }
+.nin .hyosho-ranryu { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/hyosho-ranryu.png); }
+.nin .hyoton { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/hyoton.png); }
+.nin .jin { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/jin.png); }
+.nin .kassatsu { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/kassatsu.png); }
+.nin .katon { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/katon.png); }
+.nin .meisui { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/meisui.png); }
+.nin .mug { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/mug.png); }
+.nin .ninjutsu { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/ninjutsu.png); }
+.nin .rabbit-medium { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/rabbit-medium.png); }
+.nin .raiton { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/raiton.png); }
+.nin .shade-shift { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/shade-shift.png); }
+.nin .shadow-fang { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/shadow-fang.png); }
+.nin .shukuchi { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/shukuchi.png); }
+.nin .spinning-edge { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/spinning-edge.png); }
+.nin .suiton { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/suiton.png); }
+.nin .ten { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/ten.png); }
+.nin .ten-chi-jin { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/ten-chi-jin.png); }
+.nin .throwing-dagger { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/throwing-dagger.png); }
+.nin .trick-attack { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/nin/trick-attack.png); }
 
 .pld .actions { border-left-color: #4169e1; }
-.pld .atonement { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/atonement.png); }
-.pld .circle-of-scorn { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/circle-of-scorn.png); }
-.pld .clemency { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/clemency.png); }
-.pld .confiteor { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/confiteor.png); }
-.pld .cover { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/cover.png); }
-.pld .divine-veil { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/divine-veil.png); }
-.pld .fast-blade { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/fast-blade.png); }
-.pld .fight-or-flight { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/fight-or-flight.png); }
-.pld .goring-blade { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/goring-blade.png); }
-.pld .hallowed-ground { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/hallowed-ground.png); }
-.pld .holy-circle { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/holy-circle.png); }
-.pld .holy-spirit { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/holy-spirit.png); }
-.pld .intervene { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/intervene.png); }
-.pld .intervention { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/intervention.png); }
-.pld .iron-will { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/iron-will.png); }
-.pld .passage-of-arms { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/passage-of-arms.png); }
-.pld .prominence { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/prominence.png); }
-.pld .rage-of-halone { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/rage-of-halone.png); }
-.pld .requiescat { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/requiescat.png); }
-.pld .riot-blade { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/riot-blade.png); }
-.pld .royal-authority { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/royal-authority.png); }
-.pld .sentinel { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/sentinel.png); }
-.pld .sheltron { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/sheltron.png); }
-.pld .shield-bash { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/shield-bash.png); }
-.pld .shield-lob { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/shield-lob.png); }
-.pld .spirits-within { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/spirits-within.png); }
-.pld .total-eclipse { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/pld/total-eclipse.png); }
+.pld .atonement { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/atonement.png); }
+.pld .circle-of-scorn { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/circle-of-scorn.png); }
+.pld .clemency { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/clemency.png); }
+.pld .confiteor { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/confiteor.png); }
+.pld .cover { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/cover.png); }
+.pld .divine-veil { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/divine-veil.png); }
+.pld .fast-blade { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/fast-blade.png); }
+.pld .fight-or-flight { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/fight-or-flight.png); }
+.pld .goring-blade { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/goring-blade.png); }
+.pld .hallowed-ground { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/hallowed-ground.png); }
+.pld .holy-circle { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/holy-circle.png); }
+.pld .holy-spirit { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/holy-spirit.png); }
+.pld .intervene { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/intervene.png); }
+.pld .intervention { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/intervention.png); }
+.pld .iron-will { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/iron-will.png); }
+.pld .passage-of-arms { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/passage-of-arms.png); }
+.pld .prominence { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/prominence.png); }
+.pld .rage-of-halone { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/rage-of-halone.png); }
+.pld .requiescat { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/requiescat.png); }
+.pld .riot-blade { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/riot-blade.png); }
+.pld .royal-authority { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/royal-authority.png); }
+.pld .sentinel { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/sentinel.png); }
+.pld .sheltron { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/sheltron.png); }
+.pld .shield-bash { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/shield-bash.png); }
+.pld .shield-lob { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/shield-lob.png); }
+.pld .spirits-within { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/spirits-within.png); }
+.pld .total-eclipse { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/pld/total-eclipse.png); }
 
 .rdm .actions { border-left-color: #ff0000; }
-.rdm .acceleration { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/acceleration.png); }
-.rdm .addle { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/addle.png); }
-.rdm .contre-sixte { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/contre-sixte.png); }
-.rdm .corps-a-corps { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/corps-a-corps.png); }
-.rdm .displacement { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/displacement.png); }
-.rdm .embolden { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/embolden.png); }
-.rdm .enchanted-moulinet { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/enchanted-moulinet.png); }
-.rdm .enchanted-redoublement { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/enchanted-redoublement.png); }
-.rdm .enchanted-reprise { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/enchanted-reprise.png); }
-.rdm .enchanted-riposte { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/enchanted-riposte.png); }
-.rdm .enchanted-zwerchhau { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/enchanted-zwerchhau.png); }
-.rdm .engagement { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/engagement.png); }
-.rdm .fleche { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/fleche.png); }
-.rdm .impact { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/impact.png); }
-.rdm .jolt { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/jolt.png); }
-.rdm .jolt-ii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/jolt-ii.png); }
-.rdm .lucid-dreaming { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/lucid-dreaming.png); }
-.rdm .manafication { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/manafication.png); }
-.rdm .moulinet { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/moulinet.png); }
-.rdm .redoublement { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/redoublement.png); }
-.rdm .reprise { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/reprise.png); }
-.rdm .riposte { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/riposte.png); }
-.rdm .scatter { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/scatter.png); }
-.rdm .scorch { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/scorch.png); }
-.rdm .surecast { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/surecast.png); }
-.rdm .swiftcast { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/swiftcast.png); }
-.rdm .veraero { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/veraero.png); }
-.rdm .veraero-ii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/veraero-ii.png); }
-.rdm .vercure { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/vercure.png); }
-.rdm .verfire { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/verfire.png); }
-.rdm .verflare { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/verflare.png); }
-.rdm .verholy { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/verholy.png); }
-.rdm .verraise { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/verraise.png); }
-.rdm .verstone { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/verstone.png); }
-.rdm .verthunder { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/verthunder.png); }
-.rdm .verthunder-ii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/verthunder-ii.png); }
-.rdm .zwerchhau { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/rdm/zwerchhau.png); }
+.rdm .acceleration { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/acceleration.png); }
+.rdm .addle { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/addle.png); }
+.rdm .contre-sixte { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/contre-sixte.png); }
+.rdm .corps-a-corps { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/corps-a-corps.png); }
+.rdm .displacement { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/displacement.png); }
+.rdm .embolden { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/embolden.png); }
+.rdm .enchanted-moulinet { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/enchanted-moulinet.png); }
+.rdm .enchanted-redoublement { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/enchanted-redoublement.png); }
+.rdm .enchanted-reprise { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/enchanted-reprise.png); }
+.rdm .enchanted-riposte { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/enchanted-riposte.png); }
+.rdm .enchanted-zwerchhau { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/enchanted-zwerchhau.png); }
+.rdm .engagement { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/engagement.png); }
+.rdm .fleche { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/fleche.png); }
+.rdm .impact { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/impact.png); }
+.rdm .jolt { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/jolt.png); }
+.rdm .jolt-ii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/jolt-ii.png); }
+.rdm .lucid-dreaming { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/lucid-dreaming.png); }
+.rdm .manafication { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/manafication.png); }
+.rdm .moulinet { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/moulinet.png); }
+.rdm .redoublement { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/redoublement.png); }
+.rdm .reprise { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/reprise.png); }
+.rdm .riposte { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/riposte.png); }
+.rdm .scatter { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/scatter.png); }
+.rdm .scorch { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/scorch.png); }
+.rdm .surecast { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/surecast.png); }
+.rdm .swiftcast { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/swiftcast.png); }
+.rdm .veraero { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/veraero.png); }
+.rdm .veraero-ii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/veraero-ii.png); }
+.rdm .vercure { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/vercure.png); }
+.rdm .verfire { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/verfire.png); }
+.rdm .verflare { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/verflare.png); }
+.rdm .verholy { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/verholy.png); }
+.rdm .verraise { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/verraise.png); }
+.rdm .verstone { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/verstone.png); }
+.rdm .verthunder { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/verthunder.png); }
+.rdm .verthunder-ii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/verthunder-ii.png); }
+.rdm .zwerchhau { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/rdm/zwerchhau.png); }
 
 .whm .actions { border-left-color: #fff; }
-.whm .aero { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/aero.png); }
-.whm .aero-ii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/aero-ii.png); }
-.whm .afflatus-misery { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/afflatus-misery.png); }
-.whm .afflatus-rapture { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/afflatus-rapture.png); }
-.whm .afflatus-solace { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/afflatus-solace.png); }
-.whm .assize { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/assize.png); }
-.whm .asylum { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/asylum.png); }
-.whm .benediction { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/benediction.png); }
-.whm .cure { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/cure.png); }
-.whm .cure-ii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/cure-ii.png); }
-.whm .cure-iii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/cure-iii.png); }
-.whm .dia { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/dia.png); }
-.whm .divine-bension { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/divine-bension.png); }
-.whm .fluid-aura { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/fluid-aura.png); }
-.whm .glare { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/glare.png); }
-.whm .holy { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/holy.png); }
-.whm .medica { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/medica.png); }
-.whm .medica-ii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/medica-ii.png); }
-.whm .plenary-indulgence { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/plenary-indulgence.png); }
-.whm .presence-of-mind { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/presence-of-mind.png); }
-.whm .raise { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/raise.png); }
-.whm .regen { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/regen.png); }
-.whm .stone { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/stone.png); }
-.whm .stone-ii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/stone-ii.png); }
-.whm .stone-iii { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/stone-iii.png); }
-.whm .stone-iv { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/stone-iv.png); }
-.whm .temperance { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/temperance.png); }
-.whm .tetragrammaton { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/tetragrammaton.png); }
-.whm .thin-air { background-image: url(https://peeb-bot.github.io/peeb-job-mentor-helper/images/actions/whm/thin-air.png); }
+.whm .aero { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/aero.png); }
+.whm .aero-ii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/aero-ii.png); }
+.whm .afflatus-misery { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/afflatus-misery.png); }
+.whm .afflatus-rapture { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/afflatus-rapture.png); }
+.whm .afflatus-solace { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/afflatus-solace.png); }
+.whm .assize { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/assize.png); }
+.whm .asylum { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/asylum.png); }
+.whm .benediction { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/benediction.png); }
+.whm .cure { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/cure.png); }
+.whm .cure-ii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/cure-ii.png); }
+.whm .cure-iii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/cure-iii.png); }
+.whm .dia { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/dia.png); }
+.whm .divine-bension { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/divine-bension.png); }
+.whm .fluid-aura { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/fluid-aura.png); }
+.whm .glare { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/glare.png); }
+.whm .holy { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/holy.png); }
+.whm .medica { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/medica.png); }
+.whm .medica-ii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/medica-ii.png); }
+.whm .plenary-indulgence { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/plenary-indulgence.png); }
+.whm .presence-of-mind { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/presence-of-mind.png); }
+.whm .raise { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/raise.png); }
+.whm .regen { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/regen.png); }
+.whm .stone { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/stone.png); }
+.whm .stone-ii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/stone-ii.png); }
+.whm .stone-iii { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/stone-iii.png); }
+.whm .stone-iv { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/stone-iv.png); }
+.whm .temperance { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/temperance.png); }
+.whm .tetragrammaton { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/tetragrammaton.png); }
+.whm .thin-air { background-image: url(https://peeb-org.github.io/peeb-job-mentor-helper/images/actions/whm/thin-air.png); }
